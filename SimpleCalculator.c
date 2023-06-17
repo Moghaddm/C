@@ -8,8 +8,8 @@ double Divition(double,double);
 
 int main()
 {
-	char ch;
 	double first,second;
+	char ch;
 	do
 	{
 	printf("Enter Your Operator : ");
